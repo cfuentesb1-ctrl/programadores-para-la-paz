@@ -1,0 +1,6 @@
+El uso responsable de la información significa ser honestos con lo que compartimos en internet.
+Esto se conecta con la participación ciudadana porque, al trabajar con herramientas como Git, aprendemos
+a ser organizados y transparentes en nuestros proyectos.
+Git nos permite mostrar cómo se hizo el trabajo paso a paso, lo
+cual genera confianza en la comunidad. usar estas herramientas tecnológicas de forma correcta nos ayuda como
+ciudadanos a trabajemos juntos de manera más clara, honesta y eficiente para lograr un cambio positivo en la sociedad.
