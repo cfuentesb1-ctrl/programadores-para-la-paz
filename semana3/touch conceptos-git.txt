@@ -1,0 +1,16 @@
+Repositorio
+Es el espacio o almacén digital donde se organiza y guarda todo nuestros proyecto.
+No solo contiene los archivos y carpetas, sino que también almacena el historial 
+completo de cambios, permitiéndote consultar versiones antiguas o trabajar en diferentes 
+ramas sin perder el progreso principal.
+
+Commit
+lo puedo definir como una captura de pantalla o un punto de guardado de los archivos
+en un momento específico. Cuando hago un commit, registras los cambios realizados junto 
+con un mensaje descriptivo, lo que crea un nodo en la línea de tiempo del proyecto para que 
+pueda saber exactamente qué se modificó y por qué.
+
+Push
+Es la acción de subir o enviar los commits locales hacia un servidor remoto como GitHub
+Este paso es fundamental para el trabajo colaborativo, ya que permite que mis compañeros de equipo 
+vean mis actualizaciones y mantengan sincronizada la versión más reciente del proyecto en la nube.
