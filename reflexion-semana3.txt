@@ -1,6 +1,0 @@
-Usar Git es como tener un botón de deshacer infinito y una máquina del tiempo para tu código.
-Es vital porque, si metes la pata y algo deja de funcionar, puedes volver al pasado en un segundo
-sin entrar en pánico. También permite que varias personas trabajen en lo mismo sin borrarse los cambios entre sí,
-como si cada uno escribiera en su propia hoja y luego las juntaran limpiamente. Además, te ayuda a saber
-exactamente quién tocó qué y por qué, lo que evita muchas confusiones en el equipo. Básicamente, te da la libertad 
-de experimentar y probar ideas locas con la tranquilidad de que nunca perderás el trabajo que ya funciona bien.
